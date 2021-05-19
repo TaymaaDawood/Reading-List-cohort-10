@@ -83,7 +83,7 @@ for(counter=0;counter<books.length;counter++){
      console.log('I have read the book',books[counter].title,'by' ,books[counter].author);
  }
  else{
-    console.log('I have not read the book',books[counter].title,'by' ,books[counter].author);
+    console.log('I havenot read the book',books[counter].title,'by' ,books[counter].author);
  }
 
 
